@@ -1,0 +1,16 @@
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\bin\Debug\ShiraLesson.exe.config
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\bin\Debug\ShiraLesson.exe
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\bin\Debug\ShiraLesson.pdb
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.csproj.AssemblyReference.cache
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\MainWindow.g.cs
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\App.g.cs
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson_MarkupCompile.cache
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson_MarkupCompile.lref
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\MainWindow.baml
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.g.resources
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.Properties.Resources.resources
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.csproj.GenerateResource.cache
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.csproj.CoreCompileInputs.cache
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.exe
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.pdb
+C:\Users\שירה\Desktop\תכנות\ShiraLesson1\ShiraLesson\obj\Debug\ShiraLesson.exe.config
