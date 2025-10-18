@@ -26,10 +26,14 @@ namespace ShiraLesson
             InitializeComponent();
         }
 
-        private void Button_Click(object sender, RoutedEventArgs e)
+        private void Button_Click(object o, RoutedEventArgs e)
         {
+            Button b1 = (Button)o;
+            b1.IsEnabled = true;
+            b1.Content = "Clicked!";
             SystemSounds.Beep.Play();
             MessageBox.Show("HI shira");
+            b1.IsEnabled = false;
         }
     }
 }
