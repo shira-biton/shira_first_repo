@@ -12,7 +12,5 @@
         </Grid.Background>
 
         <Button Content="על הפעילות" HorizontalAlignment="Left" Margin="428,173,0,0" VerticalAlignment="Top" Background="#FFF13C2E" Click="Button_Click"/>
-        <Button Content="על יעינמ" HorizontalAlignment="Left" Margin="428,173,0,0" VerticalAlignment="Top" Background="#FFF13C2E" Click="Button_Click"/>
-
     </Grid>
 </Window>
