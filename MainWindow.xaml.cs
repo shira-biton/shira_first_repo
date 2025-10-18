@@ -31,6 +31,7 @@ namespace ShiraLesson
             Button b1 = (Button)o;
             b1.IsEnabled = true;
             b1.Content = "Clicked!";
+
             SystemSounds.Beep.Play();
             MessageBox.Show("HI shira");
             b1.IsEnabled = false;
